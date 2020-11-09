@@ -3,7 +3,5 @@
 Author: Ahmed Manji
 
 
-![HW01 – Success](https://github.com/TheDataNomad/Module2Hmk01/workflows/Hmk01/badge.svg)
-
-![HW01 – Success](https://github.com/TheDataNomad/Module2Hmk01/tree/main/.github/workflows/main.yml/badge.svg)
+![HW01 – Success](https://github.com/TheDataNomad/Module2Hmk01/workflows/HW01%20%E2%80%93%20Success/badge.svg)
 
